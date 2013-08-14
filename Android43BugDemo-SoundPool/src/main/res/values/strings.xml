@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android 4.3 Bug Demo - SoundPool</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">This is a demo app used to reproduce a SoundPool bug (Issue 58113) found in stock Android 4.3. To recreate the bug, click the button labeled \'Play\'. The expected result on Android 4.3 is that a sound will play once. If done on another version of Android, the sound should play continuously.\n\nAs a reminder, make sure your music volume level is set high enough to hear the sound.</string>
+    <string name="label_AndroidVersion">Android Version:</string>
+    <string name="button_play">Play</string>
+    <string name="button_stop">Stop</string>
+
+</resources>
